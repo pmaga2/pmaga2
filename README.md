@@ -1,8 +1,10 @@
-Search Quality Rater
+- Search Quality Rater
 
-Studying Cybersecurity and Systems Administration
+- Studying Cybersecurity and Systems Administration
 
-Graduation Date: May 2026
+- Member of Linux Users Group
+
+- Graduation Date: May 2026
 
 <!--
 **pmaga2/pmaga2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
