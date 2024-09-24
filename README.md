@@ -1,6 +1,6 @@
 Search Quality Rater
 
-Currently studying Cybersecurity
+Interested in Cybersecurity and Systems Administration
 
 Graduation Date: May 2026
 
