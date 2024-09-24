@@ -1,4 +1,6 @@
-## Hi there 👋
+Currently studying Cybersecurity
+
+Graduation Date: May 2026
 
 <!--
 **pmaga2/pmaga2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
