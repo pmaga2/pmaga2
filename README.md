@@ -2,8 +2,6 @@ Search Quality Rater
 
 Currently studying Cybersecurity
 
-Linux Users Group
-
 Graduation Date: May 2026
 
 <!--
