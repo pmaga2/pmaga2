@@ -9,3 +9,6 @@ As I progress through school, I am hoping to develop Cybersecurity-oriented skil
 
 **Skills:**
 C, C++, Python
+
+**Expected Graduation:**
+May 2026
